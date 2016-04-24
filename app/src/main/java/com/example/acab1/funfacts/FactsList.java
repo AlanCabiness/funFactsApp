@@ -6,13 +6,13 @@ import java.util.Random;
  */
 public class FactsList {
     private String[] mFacts = {
-            "Giancarlo had chlamydia for two whole days",
-            "Robert had his face made fun of by a dirty CTA nigga",
-            "Brandon's room smells like shit",
-            "We flooded the hallway by putting dish soap in the dishwasher",
+            "This is my first Android App",
+            "I worked with DePaul Android to make this",
+            "My roommmates also worked on their own similar apps",
+            "I live with Giancarlo, Robert, and Brandon",
             "Giancarlo can't spell when he codes",
-            "Brandon thinks the honeymoon phase is over",
-            "Robert smokes big weed and I could care less"
+            "Brandon is technically a year ahead of us, AP credits",
+            "Robert loves architecture"
     };
 
     public String getFact(){
